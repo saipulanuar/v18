@@ -1,8 +1,8 @@
 let handler = async (m, { conn }) => {
 	conn.reply(m.chat, `╠═〘 PEMBAYARAN 〙 ═
 ╠═ Untuk Pembayaran Via Gopay
-╠➥ Melalui Scan QR
-║➥ Ketik #donasi lalu scan QR
+╠➥ 081260759513
+║➥ kalau mau tanyak bisa chat owner ketik #owner
 ║
 ╠═〘 Fitur 〙 ═
 ║
@@ -22,7 +22,7 @@ let handler = async (m, { conn }) => {
 ╠➥ *DAN 200 LEBIH*
 ║   *FITUR LAINNYA*
 ║ 
-╠═ ©2022 King Of Bear
+╠═ ©2022 Rezza Botz
 ╠═ Scrip original by Nurutomo
 ╠═〘 ${namabot} 〙 ═`.trim(), m)
 }
