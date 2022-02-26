@@ -15,11 +15,11 @@
 gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL', ''] // ganti jadi group lu
-global.owner = ['6288279268363'] // Put your number here //owner eval
-global.kontak = ['6288279268363','0'] //Ketika ada yang ngetik #owner
-global.mods = ['6288279268363'] // Want some help?
-global.prems = ['6288279268363'] // Premium user has unlimited limit
+global.linkGC = ['https://chat.whatsapp.com/Fvr1ikTr8316Fz8tVnMB6z', ''] // ganti jadi group lu
+global.owner = ['6281260759513'] // Put your number here //owner eval
+global.kontak = ['6281260759513','6281362862515'] //Ketika ada yang ngetik #owner
+global.mods = ['6281260759513'] // Want some help?
+global.prems = ['6281260759513','6285714469890','6285891887384','6282183629298','628381302-2785','6281362862515'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -54,29 +54,29 @@ leyskey = 'dappakntlll'
 bearkey = 'buy'
 
 //xteam        MIMINETBOT
-namaig = 'https://instagram.com/drak_ipul123'
-namagithub = 'GAK ADA :)'
+namaig = 'https://instagram.com/rezza_own0001'
+namagithub = 'Michael-suzuran'
 kasihcaption = `Nih kak`
-namakontak1 = 'King Of Bear'
-namakontak2 = 'King Of Bear'
+namakontak1 = 'Rezza Ganteng'
+namakontak2 = 'Ndraa Ganteng'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'By King Of Bear' // ganti aja
-global.author = 'King Of Bear' // ganti aja
+global.packname = 'By King Rezza' // ganti aja
+global.author = 'Rezza Botz' // ganti aja
 
 //yyy
-bc = 'King Of Bear' //King Of Bear Broadcast
-footer = '\n©King Of Bear'
-namabot = 'YUKI BOT'
-namalu = 'King Of Bear'
+bc = 'Rezza Botz' //Rezza Botz Broadcast
+footer = '\n©Rezza Botz'
+namabot = 'Rezza Botz'
+namalu = 'Rezza'
 
 
 // 
 wait = '_*Tunggu Sebentar...*_'
 global.wait = '_*Tunggu Sebentar...*_'
-global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/FnNAbem8o6r4pgLhSdO8Q9'
+global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/Fvr1ikTr8316Fz8tVnMB6z'
 global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fitur ini!\n“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mereka menahan pandanganya, dan memelihara kemaluannya; … Katakanlah kepada wanita yang beriman: Hendaklah mereka menahan pandangannya, dan kemaluannya, dan janganlah mereka Menampakkan perhiasannya, kecuali yang (biasa) nampak dari padany,” \n(TQS. Al-Nur [24]: 30-31).'
 global.eror = '_*Server Error*_'
 
