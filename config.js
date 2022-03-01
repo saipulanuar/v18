@@ -17,7 +17,7 @@ gc2 = ''
 gc3 = ''
 global.linkGC = ['https://chat.whatsapp.com/Fvr1ikTr8316Fz8tVnMB6z', ''] // ganti jadi group lu
 global.owner = ['6281260759513'] // Put your number here //owner eval
-global.kontak = ['6281260759513','6281362862515'] //Ketika ada yang ngetik #owner
+global.kontak = ['6281260759513','6281260759513'] //Ketika ada yang ngetik #owner
 global.mods = ['6281260759513'] // Want some help?
 global.prems = ['6281260759513','6285714469890','6285891887384','6282183629298','628381302-2785','6281362862515'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -58,7 +58,7 @@ namaig = 'https://instagram.com/rezza_own0001'
 namagithub = 'Michael-suzuran'
 kasihcaption = `Nih kak`
 namakontak1 = 'Rezza Ganteng'
-namakontak2 = 'Ndraa Ganteng'
+namakontak2 = 'Rezza Ganteng'
 
 //kasihcaption = `Nih Kak`
 
